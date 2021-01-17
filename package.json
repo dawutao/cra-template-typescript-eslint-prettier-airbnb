@@ -10,7 +10,7 @@
     "prettier",
     "airbnb"
   ],
-  "description": "The base template for Create React App with TypeScript, ESLint and Prettier",
+  "description": "The base template for Create React App with TypeScript, ESLint, Prettier and Airbnb ESLint Config.",
   "repository": {
     "type": "git",
     "url": "https://github.com/danielmarin0051/cra-template-typescript-eslint-prettier-airbnb.git"
